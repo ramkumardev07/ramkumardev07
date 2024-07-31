@@ -7,7 +7,7 @@ I recently graduated from AURCC <img width="25" height="25" src="https://img.ico
 - 🤔 I’m looking to start my carrer as Back-end developer
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](ramkumarvijayabasker@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/07ramkumar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ramkumarvijayabasker@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/07ramkumar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 ### I learnt
